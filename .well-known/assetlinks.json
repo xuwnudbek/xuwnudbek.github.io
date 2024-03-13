@@ -2,7 +2,7 @@
     {
         "relation": ["delegate_permission/common.handle_all_urls"],
         "target": {
-          "namespace": "android_app",
+          "namespace": "com.example.yodlab",
           "package_name": "com.example.yodlab"          
         }
     }
